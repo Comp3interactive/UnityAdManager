@@ -1,7 +1,7 @@
 # Unity Ad Manager
 A quick, easy and reusable AdManager solution for Unity Ads
 
-For a full explination of this class and step-by-step creation instructions, find the full video on our YouTube channel here => https://youtube.com/comp3interactive
+For a full explination of this class and step-by-step creation instructions, find the full video on our YouTube channel here => <https://youtube.com/comp3interactive>
 
 ### Setup
 - Add the AdManager.cs file to your project
